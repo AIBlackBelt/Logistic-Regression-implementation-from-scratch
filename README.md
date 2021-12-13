@@ -1,1 +1,1 @@
-# Logistic-regression-from-scratch-in-c-
+# Logistic-regression-from-scratch-in-c++-
